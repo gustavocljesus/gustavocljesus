@@ -1,7 +1,7 @@
 ## Olá, eu sou Gustavo Celestino
 
 - Atualmente estou em formação na graduação.
-- Estudando SQL e Databricks.
+- Estudando SQL e PySpark (Databricks).
  <!-- 
 <div>
   <a href="https://github.com/gustavocljesus">
@@ -14,6 +14,7 @@
   <h3>Linguagens e Tecnologias</h3>
   <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="ApacheSpark logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
 </div>
 
 ##
