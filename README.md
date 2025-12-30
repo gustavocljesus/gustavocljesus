@@ -1,7 +1,7 @@
 ## Olá, eu sou Gustavo Celestino
 
-- Hoje ainda estou me formando na graduação
-- Estudando SQL e Databricks
+- Atualmente estou em formação na graduação.
+- Estudando SQL e Databricks.
 <!--
 <div>
   <a href="https://github.com/gustavocljesus">
