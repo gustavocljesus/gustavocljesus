@@ -2,17 +2,16 @@
 
 - Atualmente estou em formação na graduação.
 - Estudando SQL e Databricks.
-<!--
+ <!-- 
 <div>
   <a href="https://github.com/gustavocljesus">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavocljesus&show_icons=true&theme=dark" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocljesus" />
   </a>
 </div>
-
-##
 -->
 <div style="display: inline_block"><br>
+  <h3>Linguagens e Tecnologias</h3>
   <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
