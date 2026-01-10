@@ -6,9 +6,9 @@
 
 ###
 
-  - Graduando em Engenharia de Computação.<br>
-  - Atualmente cursando um curso de Engenharia de Dados.<br>
-  - Foco em fundamentos e prática de pipelines de dados.
+  - Graduando em Engenharia de Computação.
+  - Atualmente cursando um curso de Engenharia de Dados.
+ 
 
 ###
 <!--
