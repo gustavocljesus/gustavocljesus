@@ -1,27 +1,50 @@
-## Olá, eu sou Gustavo Celestino
+<h1 align="left">Olá, eu sou Gustavo Celestino</h1>
 
-- Atualmente estou em formação na graduação.
-- Estudando SQL e PySpark (Databricks).
- <!-- 
-<div>
-  <a href="https://github.com/gustavocljesus">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gustavocljesus&show_icons=true&theme=dark" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocljesus" />
-  </a>
+###
+
+<h3 align="left">Sobre mim</h3>
+
+###
+
+<p align="left">- Graduando em Engenharia de Computação.<br>- Atualmente cursando um curso de Engenharia de Dados.<br>- Foco em fundamentos e prática de pipelines de dados.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavocljesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavocljesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
--->
-<div style="display: inline_block"><br>
-  <h3>Linguagens e Tecnologias</h3>
-  <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="ApacheSpark logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
+
+###
+
+<h3 align="left">Linguagens e Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ##
 
-<div>
-  <a href = "mailto:gustavocljesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gustavo-cljesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/gustavocljesus" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://t.me/gustavocljesus" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-cljesus" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=" mailto: gustavocljesus@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/gustavocljesus" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavocljesus/gustavocljesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavocljesus/gustavocljesus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavocljesus/gustavocljesus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
