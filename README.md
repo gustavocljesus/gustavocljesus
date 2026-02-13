@@ -7,7 +7,8 @@
 ###
 
   - Graduando em Engenharia de Computação.
-  - Atualmente cursando um curso de Engenharia de Dados.
+  - Focado em Engenharia de Dados.
+  - Atualmente estou estudando orquestração com airflow.
  
 
 ###
