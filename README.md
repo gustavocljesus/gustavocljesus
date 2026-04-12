@@ -1,28 +1,36 @@
-<h1 align="left">Olá, eu sou Gustavo Celestino</h1>
+# Olá, eu sou Gustavo Celestino 👋
 
-###
+🎯 Data Engineering Student | Construindo pipelines de dados batch e streaming
 
-<h3 align="left">Sobre mim</h3>
+---
 
-###
+### 👨‍💻 Sobre mim
 
-  - Graduando em Engenharia de Computação.
-  - Focado em Engenharia de Dados.
-  - Atualmente estou estudando orquestração com airflow e administração de ambientes Linux.
- 
+- Graduando em Engenharia de Computação  
+- Focado em Engenharia de Dados  
+- Interesse em construção de pipelines robustos, idempotência e processamento de dados  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocljesus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavocljesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🚀 Projetos em destaque
+- 📌 **[Ingestão de Dados em Streaming](https://github.com/gustavocljesus/aws-kinesis-glue-athena-pipeline)**  
+  Pipeline end-to-end de streaming na AWS com Kinesis, S3, Glue e Athena  
 
-###
+- 📌 **Pipeline de Dados com Airflow (em desenvolvimento)**   
+  Orquestração de pipeline ELT com dbt, PostgreSQL e Snowflake 
 
-<h3 align="left">Linguagens e Tecnologias</h3>
+---
 
-###
+### 🧠 Atualmente estudando
+
+- Orquestração de workflows com Apache Airflow  
+- Idempotência em pipelines de dados  
+- Administração de ambientes Linux  
+- Modelagem e manipulação de dados com Python  
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" alt="python logo"  />
@@ -30,12 +38,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" height="40" alt="AWS logo" />
 </div>
 
-##
+---
+
+### 🔍 Interesses Técnicos
+
+- Engenharia de Dados  
+- Arquitetura de pipelines  
+- Processamento batch vs streaming  
+- Sistemas distribuídos  
+
+---
+
+### 📬 Contato
+
+Sinta-se à vontade para conectar ou trocar ideias sobre dados 🚀
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-cljesus" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="mailto:gustavocljesus@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
   <a href="https://t.me/gustavocljesus" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
 </div>
-
-
