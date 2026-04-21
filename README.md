@@ -1,23 +1,25 @@
 # Olá, eu sou Gustavo Celestino 👋
 
-🎯 Data Engineering Student | Construindo pipelines de dados batch e streaming
+🎯 Data Engineering Student | SQL • Python • ETL/ELT • Batch & Streaming Pipelines
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- Graduando em Engenharia de Computação  
-- Focado em Engenharia de Dados  
-- Interesse em construção de pipelines robustos, idempotência e processamento de dados  
+Sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB), com foco em Engenharia de Dados e interesse no desenvolvimento de soluções orientadas a dados.
+
+Tenho desenvolvido projetos de pipelines batch e streaming utilizando Python, SQL, AWS, dbt e Apache Airflow, sempre buscando aplicar boas práticas de automação, organização e confiabilidade dos dados.
+
+Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contribuir na construção de arquiteturas de dados robustas, escaláveis e eficientes.
 
 ---
 
 ### 🚀 Projetos em destaque
 - 📌 **[Ingestão de Dados em Streaming](https://github.com/gustavocljesus/aws-kinesis-glue-athena-pipeline)**  
-  Pipeline end-to-end de streaming na AWS com Kinesis, S3, Glue e Athena  
-
+Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para processamento e análise de dados.
+  
 - 📌 **Pipeline de Dados com Airflow (em desenvolvimento)**   
-  Orquestração de pipeline ELT com dbt, PostgreSQL e Snowflake 
+  Pipeline ELT orquestrado com Apache Airflow utilizando dbt, PostgreSQL, Snowflake e Looker Studio para análise e consumo de dados. 
 
 ---
 
