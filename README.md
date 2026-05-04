@@ -1,14 +1,14 @@
 # Olá, eu sou Gustavo Celestino 👋
 
-🎯 Data Engineering Student | SQL • Python • ETL/ELT • Batch & Streaming Pipelines
+🎯 Data Engineering Student | SQL • Python • ETL/ELT Pipelines • Batch & Streaming Processing
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB), com foco em Engenharia de Dados e interesse no desenvolvimento de soluções orientadas a dados.
+Sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB), com ênfase em Engenharia de Dados e desenvolvimento de soluções orientadas a dados.
 
-Tenho desenvolvido projetos de pipelines batch e streaming utilizando Python, SQL, AWS, dbt e Apache Airflow, sempre buscando aplicar boas práticas de automação, organização e confiabilidade dos dados.
+Tenho desenvolvido projetos de pipelines batch e streaming utilizando Python, SQL, AWS, dbt e Apache Airflow, aplicando boas práticas de automação, organização e confiabilidade dos dados.
 
 Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contribuir na construção de arquiteturas de dados robustas, escaláveis e eficientes.
 
@@ -16,12 +16,11 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
 
 ### 🚀 Projetos em destaque
 - 📌 **[Pipeline de Dados com Airflow](https://github.com/gustavocljesus/airflow-dbt-snowflake-elt-pipeline)**   
-  Pipeline ELT orquestrado com Apache Airflow utilizando dbt, PostgreSQL, Snowflake e Looker Studio para análise e consumo de dados.
+  Pipeline ELT orquestrado com Apache Airflow, utilizando dbt, PostgreSQL e Snowflake, com consumo via Google Data Studio.
    
 - 📌 **[Ingestão de Dados em Streaming](https://github.com/gustavocljesus/aws-kinesis-glue-athena-pipeline)**  
-Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para processamento e análise de dados.
+  Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para processamento e análise de dados.
   
-
 ---
 
 ### 🧠 Atualmente estudando
@@ -29,24 +28,29 @@ Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para p
 - Orquestração de workflows com Apache Airflow  
 - Idempotência em pipelines de dados  
 - Administração de ambientes Linux  
-- Modelagem e manipulação de dados com Python  
+- Modelagem e processamento de dados com Python
+- Containerização de pipelines de dados com Docker  
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo" />
   <img width="12" />
-  <img src="https://dl.svgcdn.com/png/logos/dbt-icon-800.png" height="40" alt="dbt logo" />
+  <img src="https://dl.svgcdn.com/png/logos/dbt-icon-800.png" height="35" alt="dbt logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/snowflake" height="35" alt="snowflake logo" />
   <img width="12" />
 </div>
 
@@ -56,7 +60,7 @@ Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para p
 
 - Engenharia de Dados  
 - Arquitetura de pipelines  
-- Processamento batch vs streaming  
+- Processamento de dados (batch e streaming)  
 - Sistemas distribuídos  
 
 ---
