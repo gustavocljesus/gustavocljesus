@@ -15,11 +15,12 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
 ---
 
 ### 🚀 Projetos em destaque
+- 📌 **[Pipeline de Dados com Airflow](https://github.com/gustavocljesus/airflow-dbt-snowflake-elt-pipeline)**   
+  Pipeline ELT orquestrado com Apache Airflow utilizando dbt, PostgreSQL, Snowflake e Looker Studio para análise e consumo de dados.
+   
 - 📌 **[Ingestão de Dados em Streaming](https://github.com/gustavocljesus/aws-kinesis-glue-athena-pipeline)**  
 Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para processamento e análise de dados.
   
-- 📌 **Pipeline de Dados com Airflow (em desenvolvimento)**   
-  Pipeline ELT orquestrado com Apache Airflow utilizando dbt, PostgreSQL, Snowflake e Looker Studio para análise e consumo de dados. 
 
 ---
 
@@ -40,6 +41,12 @@ Pipeline de ingestão em tempo real na AWS com Kinesis, S3, Glue e Athena para p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow logo" />
+  <img width="12" />
+  <img src="https://dl.svgcdn.com/png/logos/dbt-icon-800.png" height="40" alt="dbt logo" />
   <img width="12" />
 </div>
 
