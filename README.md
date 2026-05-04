@@ -36,21 +36,31 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
 ### ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="35"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgres logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo" />
-  <img width="12" />
+  
   <img src="https://dl.svgcdn.com/png/logos/dbt-icon-800.png" height="35" alt="dbt logo" />
   <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="35" alt="snowflake logo" />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="AWS logo" />
+  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/snowflake" height="35" alt="snowflake logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/git/F05032"  height="35" alt="git logo" />
   <img width="12" />
 </div>
 
