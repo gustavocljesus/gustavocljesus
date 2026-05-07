@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB), com ênfase em Engenharia de Dados e desenvolvimento de soluções orientadas a dados.
+Sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia (UFRB), com foco em Engenharia de Dados e desenvolvimento de soluções data-driven.
 
-Tenho desenvolvido projetos de pipelines batch e streaming utilizando Python, SQL, AWS, dbt e Apache Airflow, aplicando boas práticas de automação, organização e confiabilidade dos dados.
+Tenho desenvolvido projetos de pipelines batch e streaming utilizando Python, SQL, AWS, dbt e Apache Airflow, aplicando boas práticas de automação, modelagem e confiabilidade das informações.
 
-Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contribuir na construção de arquiteturas de dados robustas, escaláveis e eficientes.
+Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contribuir na construção de arquiteturas escaláveis, eficientes e orientadas a dados.
 
 ---
 
