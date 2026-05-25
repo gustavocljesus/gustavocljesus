@@ -1,6 +1,6 @@
 # Olá, eu sou Gustavo Celestino 👋
 
-🎯 Data Engineering Student | SQL • Python • ETL/ELT Pipelines • Batch & Streaming Processing
+🎯 Data Engineering Student | Python • SQL • ETL/ELT Pipelines • Data Processing
 
 ---
 
