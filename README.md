@@ -23,9 +23,9 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
   
 ---
 
-### 🧠 Atualmente estudando
+### 🧠 Atualmente me aprofundando em
 
-- Orquestração de workflows com Apache Airflow  
+- Apache Airflow 
 - Idempotência em pipelines de dados  
 - Administração de ambientes Linux  
 - Modelagem e processamento de dados com Python
