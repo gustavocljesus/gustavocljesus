@@ -80,7 +80,7 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
 Sinta-se à vontade para conectar ou trocar ideias sobre dados 🚀
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-cljesus" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavocljesus" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /><img width="12" /></a>
   <a href="mailto:gustavocljesus@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" /><img width="12" /></a>
