@@ -23,16 +23,6 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
   
 ---
 
-### 🧠 Atualmente me aprofundando em
-
-- Apache Airflow 
-- Idempotência em pipelines de dados  
-- Administração de ambientes Linux  
-- Modelagem e processamento de dados com Python
-- Containerização de pipelines de dados com Docker  
-
----
-
 ### ⚙️ Stack Tecnológica
 
 <div align="left">
@@ -69,7 +59,7 @@ Busco oportunidades para atuar em projetos reais, evoluir tecnicamente e contrib
 ### 🔍 Interesses Técnicos
 
 - Engenharia de Dados  
-- Arquitetura de pipelines  
+- Arquitetura de dados  
 - Processamento de dados (batch e streaming)  
 - Sistemas distribuídos  
 
@@ -84,6 +74,6 @@ Sinta-se à vontade para conectar ou trocar ideias sobre dados 🚀
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /><img width="12" /></a>
   <a href="mailto:gustavocljesus@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" /><img width="12" /></a>
-  <a href="https://t.me/gustavocljesus" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo" /><img width="12" /></a>
+  <a href="https://wa.me/5571996814959" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" alt="telegram logo" /><img width="12" /></a>
 </div>
